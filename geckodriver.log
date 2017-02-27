@@ -766,3 +766,12 @@ JavaScript error: http://www.interia.pl/, line 53: TypeError: div is null
 1487947073800	Marionette	INFO	startBrowser 24eb7aeb-0e5a-42cf-86aa-951f73fedd75
 1487947073807	Marionette	INFO	sendAsync 24eb7aeb-0e5a-42cf-86aa-951f73fedd75
 1487947074023	Marionette	INFO	sendAsync 24eb7aeb-0e5a-42cf-86aa-951f73fedd75
+1488191950968	geckodriver	INFO	Listening on 127.0.0.1:52636
+1488191952999	mozprofile::profile	INFO	Using profile path C:\Users\t_motak\AppData\Local\Temp\rust_mozprofile.YTboFyzz4auO
+1488191953004	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1488191953011	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52642
+1488191953789	Marionette	INFO	Listening on port 52642
+1488191954858	Marionette	INFO	startBrowser 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
+1488191954868	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
+1488191955141	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
+1488191955559	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
