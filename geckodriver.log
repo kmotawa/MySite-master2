@@ -775,3 +775,27 @@ JavaScript error: http://www.interia.pl/, line 53: TypeError: div is null
 1488191954868	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
 1488191955141	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
 1488191955559	Marionette	INFO	sendAsync 2f0a2578-76f6-4cbe-8cc3-a744aafa2802
+1488964395480	geckodriver	INFO	Listening on 127.0.0.1:55835
+1488964397541	mozprofile::profile	INFO	Using profile path C:\Users\t_motak\AppData\Local\Temp\rust_mozprofile.n6kLLXli5dSF
+1488964397541	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1488964397557	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55841
+1488964398310	Marionette	INFO	Listening on port 55841
+1488964399334	Marionette	INFO	startBrowser 94a4154a-b848-4ee2-a1f2-b116f0b16173
+1488964399341	Marionette	INFO	sendAsync 94a4154a-b848-4ee2-a1f2-b116f0b16173
+1488964399601	Marionette	INFO	sendAsync 94a4154a-b848-4ee2-a1f2-b116f0b16173
+1488964430218	geckodriver	INFO	Listening on 127.0.0.1:55866
+1488964432270	mozprofile::profile	INFO	Using profile path C:\Users\t_motak\AppData\Local\Temp\rust_mozprofile.HFsBFu4wpA7f
+1488964432270	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1488964432285	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55872
+1488964432859	Marionette	INFO	Listening on port 55872
+1488964433861	Marionette	INFO	startBrowser b02e7753-1a01-4402-a945-b1970a6a5673
+1488964433868	Marionette	INFO	sendAsync b02e7753-1a01-4402-a945-b1970a6a5673
+1488964434074	Marionette	INFO	sendAsync b02e7753-1a01-4402-a945-b1970a6a5673
+1488964463024	geckodriver	INFO	Listening on 127.0.0.1:55898
+1488964465072	mozprofile::profile	INFO	Using profile path C:\Users\t_motak\AppData\Local\Temp\rust_mozprofile.fLHLncXBbcBu
+1488964465072	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1488964465087	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55904
+1488964465669	Marionette	INFO	Listening on port 55904
+1488964466674	Marionette	INFO	startBrowser 3f4a401a-30d3-4871-a369-698b768532c6
+1488964466680	Marionette	INFO	sendAsync 3f4a401a-30d3-4871-a369-698b768532c6
+1488964466900	Marionette	INFO	sendAsync 3f4a401a-30d3-4871-a369-698b768532c6
